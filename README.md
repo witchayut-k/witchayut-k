@@ -1,18 +1,24 @@
-# Hi there, I'm Witchayut! 👋
+# Hi, I'm Yut! 👋
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Agile+Team+Leader;Full-Stack+Developer;15%2B+Years+Experience" alt="Typing SVG" />
+<div align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?pause=0&color=2196F3&center=false&vCenter=true&width=435&lines=Agile+Team+Leader;Full-Stack+Developer;Over+15%2B+Years+Experience" alt="Typing SVG" />
 </div>
 
-## 🚀 About Me
+- ✨ **Currently working on:** Full-Stack seveloper and software development team leader
+- ✨ **Always learning:** Latest trends in cloud technologies, AI business driven and DevOps
 
-**Experienced Full-Stack Developer & Team Leader** with over **15 years** of development experience and **5 years** leading agile teams. I'm passionate about building scalable solutions and mentoring development teams to deliver exceptional software products.
+## 👨🏻‍💻 Software Development Projects
+- <b>Full Stack Development </b>
+  - (Angular, Golang, Flutter, Google Cloud Platform)
+    - [Dating application within bluetooth range](https://github.com/witchayut-k/tug-app)
+  - (Angular, Nodejs, React Native, Google Cloud Platform)
+    - [Online consulting with phamacist and medicine ordering application](https://github.com/witchayut-k/yaprompt-app-customer)
 
-- 🔭 **Currently working on:** System architecture and team leadership
-- 🌱 **Always learning:** Latest trends in cloud technologies and DevOps
-- 👯 **Looking to collaborate on:** Open source projects and innovative web/mobile solutions
-- 💬 **Ask me about:** Full-stack development, agile methodologies, and team management
-- 📫 **How to reach me:** [Open an issue](https://github.com/witchayut-k/witchayut-k/issues) or connect via my socials
+- <b>Frontend Developement</b>
+  - Line OA (Ionic, Angular, React)
+    - Love you nature, carbon foot print
+    - Henkel Thailand
+    - Shiseido Professional
 
 ## 🛠️ Tech Stack
 
@@ -43,26 +49,18 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
-## 🎓 Education & Certifications
+## 🎓 Education
 
-🎓 **Master of Computer Science** - Chiang Mai University (2011-2014)  
-🎓 **Bachelor of Computer Science** - Payap University (2003-2007)  
+- **Master of Computer Science** - Chiang Mai University (2011-2014)  
 
-🏆 **Microsoft Azure Fundamentals**  
-🏆 **Agile Project Management**  
+## 🏆 Certifications
 
-
-## 🏆 Key Expertise
-
-- **System Analysis & Design** - Architecting scalable and maintainable solutions
-- **Agile Methodologies** - Leading cross-functional teams using Scrum and Kanban
-- **Full-Stack Development** - End-to-end application development
-- **Team Leadership** - Mentoring developers and driving technical excellence
-- **Testing & Quality Assurance** - Unit testing and automated testing implementation
+- [Microsoft Azure Fundamentals](https://learn.microsoft.com/en-us/users/witchayutketudom-3368/credentials/da37f4cc8811fecf)
+- [Agile Project Management](https://coursera.org/share/edc1c2d9b07933ab9dd97ea0365b0b60)
 
 ## 🌟 Fun Facts
 
-- 🌏 Based in Thailand
+- 🌏 Based in Chiang Mai, Thailand
 - 📚 Continuous learner with 15+ years in the industry
 - 🚀 Passionate about clean code and best practices
 - 🎯 Love solving complex technical challenges
