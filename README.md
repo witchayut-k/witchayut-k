@@ -60,24 +60,23 @@
     - [Golang API](https://github.com/witchayut-k/tug-api)
     - [Angular Admin Portal](https://github.com/witchayut-k/tug-admin)
     - [Flutter Mobile App](https://github.com/witchayut-k/tug-app)
+  - Hotel Management System & Guest Support App _(Angular, Flutter, C#.net)_
   - Online Phamarcy Consultation & Delivery  
     _(Angular, Nodejs, React Native, Google Cloud Platform)_
     - [Nodejs API](https://github.com/witchayut-k/yaprompt-api)
     - [Angular Admin Portal](https://github.com/witchayut-k/yaprompt-admin)
     - [React Native Mobile App](https://github.com/witchayut-k/yaprompt-customer-app)
-  - Shiseido CRM Integration _(Line OA)_
-  - Herbal Medicinal Database _(Custom CMS for Manose Co.)_
-  - Online Travel Ticketing Platform _(OPN Payment Integration)_
-  - POS System for Currency Exchange _(Chiang Mai Money Exchange)_
-  - Security Guard Checkpoint System _(Real-time alerts via LineOA & Telegram)_
-  - NRIIS Project _(Thai Government R&D Portal)_
-  - Interactive Web Plugin _(Voice/Video calling, chat, screen sharing)_
+  - Shiseido CRM Integration _–Line OA_ _(Angular, Nodejs, Firebase)_
+  - Interactive Web Plugin _–Voice/Video calling, chat, screen sharing_ _(React, C#.net)_
+  - NRIIS Project _–Thai Government R&D Portal_ _(C#.net, React, React Native)_
+  - Online Travel Ticketing Platform _(Laravel, Ionic Angular)_
+  - Security Guard Checkpoint System _-Real-time alerts via LineOA & Telegram_ _(React Native, Laravel)_
+  - Herbal Medicinal Database _–Custom CMS for Manose Co_ _(Laravel)_
+  - POS System for Currency Exchange _–Chiang Mai Money Exchange_ _(PHP)_
  
 - <b>Frontend Development </b>
-  - Carbon Footprint Line OA (Kasikorn Bank)
-    - _[Ionic Angular]_
-  - MEA Hospital Management System
-    - _[Angular - Patient Referral & Social Work Modules]_
+  - Carbon Footprint _–Line OA (Kasikorn Bank)_ _(Ionic Angular)_
+  - MEA Hospital Management System _–Patient Referral & Social Work Modules_ _(Angular)_
    
 - <b>Wordpress Plugin Development</b>
   - [Money Space Payment Gateway Integration](https://github.com/witchayut-k/wp-money-space-integration)
