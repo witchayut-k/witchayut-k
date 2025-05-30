@@ -6,6 +6,15 @@
 
 ✨ **Currently working on:** Full-Stack developer and software development team leader
 
+## 🎓 Education
+
+- **Master of Computer Science** - Chiang Mai University (2011-2014)  
+
+## 🏆 Certifications
+
+- [Microsoft Azure Fundamentals](https://learn.microsoft.com/en-us/users/witchayutketudom-3368/credentials/da37f4cc8811fecf)
+- [Agile Project Management](https://coursera.org/share/edc1c2d9b07933ab9dd97ea0365b0b60)
+
 ## 🛠️ Tech Stack
 
 ### 🖥️ Backend & Server-Side
@@ -42,15 +51,6 @@
 ![Firebase Realtime](https://img.shields.io/badge/Firebase_Realtime-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Telegram Bot](https://img.shields.io/badge/Telegram_Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
 ![LINE Messaging API](https://img.shields.io/badge/LINE_Messaging_API-00C300?style=for-the-badge&logo=line&logoColor=white)
-
-## 🎓 Education
-
-- **Master of Computer Science** - Chiang Mai University (2011-2014)  
-
-## 🏆 Certifications
-
-- [Microsoft Azure Fundamentals](https://learn.microsoft.com/en-us/users/witchayutketudom-3368/credentials/da37f4cc8811fecf)
-- [Agile Project Management](https://coursera.org/share/edc1c2d9b07933ab9dd97ea0365b0b60)
 
 ## 👨🏻‍💻 Software Development Projects
 - <b>Full Stack Development </b>
