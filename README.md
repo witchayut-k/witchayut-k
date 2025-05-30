@@ -64,15 +64,25 @@
     - [Angular Admin Portal](https://github.com/witchayut-k/yaprompt-admin)
     - [React Native Mobile App](https://github.com/witchayut-k/yaprompt-customer-app)
   - Shiseido CRM (Line OA)
-  - Security guard checkpoint application
   - Herbal medicinal database
-  - 
+  - Travel online ticket platform for travel agencies
+  - POS for money exchange business in Chiang Mai
+  - Security guard checkpoint application
+  - NRIIS (goverment project)
+  - Interactive website plugin for video call, chat and screen sharing
  
 - <b>Frontend Development </b>
   - Carbon foot print Line OA (Kasikorn Bank)
     - [Ionic Angular]
-  - MEA | Hospital management sytem (patient referal and social work modules)
+  - MEA | Hospital management system (patient referal and social work modules)
     - [Angular Web App]
+   
+- <b>Wordpress Plugin Development</b>
+  - [Money space payment gateway integration](https://github.com/witchayut-k/wp-money-space-integration)
+ 
+- <b>Payment Gateway Integration</b>
+  - OPN (Travel booking system)
+  - KTB Promptpay (Online consulting with phamacist and medicine ordering)
 
 ## 🌟 Fun Facts
 
