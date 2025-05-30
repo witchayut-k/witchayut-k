@@ -70,7 +70,7 @@
   - Interactive Web Plugin _–Voice/Video calling, chat, screen sharing_ _(React, C#.net)_
   - NRIIS Project _–Thai Government R&D Portal_ _(C#.net, React, React Native)_
   - Online Travel Ticketing Platform _(Laravel, Ionic Angular)_
-  - Security Guard Checkpoint System _-Real-time alerts via LineOA & Telegram_ _(React Native, Laravel)_
+  - Security Guard Checkpoint System _–Real-time alerts via LineOA & Telegram_ _(React Native, Laravel)_
   - Herbal Medicinal Database _–Custom CMS for Manose Co_ _(Laravel)_
   - POS System for Currency Exchange _–Chiang Mai Money Exchange_ _(PHP)_
  
