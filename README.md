@@ -63,9 +63,12 @@
     - [Nodejs API](https://github.com/witchayut-k/yaprompt-api)
     - [Angular Admin Portal](https://github.com/witchayut-k/yaprompt-admin)
     - [React Native Mobile App](https://github.com/witchayut-k/yaprompt-customer-app)
+  - Shiseido CRM (Line OA)
+ 
+- <b>Frontend Development </b>
   - Carbon foot print Line OA (Kasikorn Bank)
     - [Ionic Angular]
-  - MEA
+  - MEA | Hospital management sytem (patient referal and social work modules)
     - [Angular Web App]
 
 ## 🌟 Fun Facts
