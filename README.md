@@ -55,34 +55,36 @@
 
 ## 👨🏻‍💻 Software Development Projects
 - <b>Full Stack Development </b>
-  - Dating application within bluetooth range (Angular, Golang, Flutter, Google Cloud Platform)
+  - Bluetooth-Range Dating App  
+    _(Angular, Golang, Flutter, Google Cloud Platform)_
     - [Golang API](https://github.com/witchayut-k/tug-api)
     - [Angular Admin Portal](https://github.com/witchayut-k/tug-admin)
     - [Flutter Mobile App](https://github.com/witchayut-k/tug-app)
-  - Online consulting with phamacist and medicine ordering (Angular, Nodejs, React Native, Google Cloud Platform)
+  - Online Phamarcy Consultation & Delivery  
+    _(Angular, Nodejs, React Native, Google Cloud Platform)_
     - [Nodejs API](https://github.com/witchayut-k/yaprompt-api)
     - [Angular Admin Portal](https://github.com/witchayut-k/yaprompt-admin)
     - [React Native Mobile App](https://github.com/witchayut-k/yaprompt-customer-app)
-  - Shiseido CRM (Line OA)
-  - Herbal medicinal database
-  - Travel online ticket platform for travel agencies
-  - POS for money exchange business in Chiang Mai
-  - Security guard checkpoint application
-  - NRIIS (goverment project)
-  - Interactive website plugin for video call, chat and screen sharing
+  - Shiseido CRM Integration _(Line OA)_
+  - Herbal Medicinal Database _(Custom CMS for Manose Co.)_
+  - Online Travel Ticketing Platform _(OPN Payment Integration)_
+  - POS System for Currency Exchange _(Chiang Mai Money Exchange)_
+  - Security Guard Checkpoint System _(Real-time alerts via LineOA & Telegram)_
+  - NRIIS Project _(Thai Government R&D Portal)_
+  - Interactive Web Plugin _(Voice/Video calling, chat, screen sharing)_
  
 - <b>Frontend Development </b>
-  - Carbon foot print Line OA (Kasikorn Bank)
-    - [Ionic Angular]
-  - MEA | Hospital management system (patient referal and social work modules)
-    - [Angular Web App]
+  - Carbon Footprint Line OA (Kasikorn Bank)
+    - _[Ionic Angular]_
+  - MEA Hospital Management System
+    - _[Angular - Patient Referral & Social Work Modules]_
    
 - <b>Wordpress Plugin Development</b>
-  - [Money space payment gateway integration](https://github.com/witchayut-k/wp-money-space-integration)
+  - [Money Space Payment Gateway Integration](https://github.com/witchayut-k/wp-money-space-integration)
  
 - <b>Payment Gateway Integration</b>
-  - OPN (Travel booking system)
-  - KTB Promptpay (Online consulting with phamacist and medicine ordering)
+  - OPN Payment - Integrated into travel booking systems
+  - KTB PromptPay - Used in pharmacy consultation platform
 
 ## 🌟 Fun Facts
 
